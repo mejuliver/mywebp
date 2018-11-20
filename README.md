@@ -1,4 +1,4 @@
-# tourMe
+# MyWEBP
 Use webp to your website with a fallback
 
 #### How To Use
