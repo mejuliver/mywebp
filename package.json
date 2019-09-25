@@ -1,0 +1,25 @@
+{
+  "name": "mywebp",
+  "version": "1.0.0",
+  "description": "Use webp to your website with a fallback",
+  "main": "webp-convert.js",
+  "dependencies": {
+    "imagemin": "^6.0.0",
+    "imagemin-webp": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mejuliver/mywebp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mejuliver/mywebp/issues"
+  },
+  "homepage": "https://github.com/mejuliver/mywebp#readme"
+}
